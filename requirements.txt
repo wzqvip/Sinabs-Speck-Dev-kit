@@ -1,5 +1,3 @@
-torch
-torchvision
 numpy
 scipy
 matplotlib
@@ -13,3 +11,4 @@ sinabs>=2.0.0
 samna
 sinabs-exodus  # 如果你要使用 Exodus 训练加速
 tonic
+sinabs
