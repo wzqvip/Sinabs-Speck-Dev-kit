@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+scipy
+matplotlib
+pandas
+tqdm
+ipywidgets
+tonic
+h5py
+numba
+sinabs>=2.0.0
+samna
+sinabs-exodus  # 如果你要使用 Exodus 训练加速
+tonic
